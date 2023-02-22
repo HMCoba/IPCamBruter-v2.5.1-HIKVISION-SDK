@@ -5,9 +5,9 @@ IPCamBruter-v2.5.1
 
 REQUIREMENTS
 OS-Windows 7 - 8 - 8.1 - 10 - 11 (x32-x64) bits.
-RAM - 8g
-Disk space: 30MB
-WinPcap!
+RAM - 8g.
+Место на диске: 30мб
+Драйвер: WinPcap.
 Стабильный интернет!
 
 УСТАНОВКА!
